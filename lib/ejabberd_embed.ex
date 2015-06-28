@@ -1,0 +1,2 @@
+defmodule EjabberdEmbed do
+end

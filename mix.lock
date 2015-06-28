@@ -1,0 +1,10 @@
+%{"ehyperloglog": {:git, "https://github.com/vaxelfel/eHyperLogLog.git", "efd14f262c663cde76d8ed48007826dabe9aca41", []},
+  "ejabberd": {:git, "git://github.com/processone/ejabberd.git", "4ae1b4db03f4cea0fd1d7639ac58eb58cbb19efd", []},
+  "esip": {:git, "https://github.com/processone/p1_sip", "a9b725df78ee44c0f118908eef07395654767d62", []},
+  "p1_cache_tab": {:git, "https://github.com/processone/cache_tab", "cca096330ce39e8b56fe0e0c478df1ff452e7751", []},
+  "p1_stringprep": {:git, "https://github.com/processone/stringprep", "3c640237a3a7831dc39de6a6d329d3a9af25c579", []},
+  "p1_stun": {:git, "git://github.com/processone/stun.git", "d98c71e22492bd5cf95f6a3227de302ace0f70b3", []},
+  "p1_tls": {:git, "git://github.com/processone/tls.git", "b0700041cdce3cc0653e383682156c65ed5f47db", []},
+  "p1_utils": {:git, "git://github.com/processone/p1_utils.git", "1bf99f9c8daed3b03f76e2714ca102c520c88b26", []},
+  "p1_xml": {:git, "https://github.com/processone/xml", "2c610839f89e41c3aae116d8e594da20067d4051", []},
+  "p1_yaml": {:git, "https://github.com/processone/p1_yaml", "e1f081e1bbf34c35fc60c1b988d62a07fbead3e8", []}}
