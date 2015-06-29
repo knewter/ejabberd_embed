@@ -28,10 +28,7 @@ defmodule EjabberdEmbed.Mixfile do
   # Type `mix help deps` for more examples and options
   defp deps do
     [
-      {:ejabberd, github: "processone/ejabberd"},
-      {:p1_utils, github: "processone/p1_utils", override: true},
-      {:p1_tls, github: "processone/tls", override: true},
-      {:p1_stun, github: "processone/stun", override: true}
+      {:ejabberd, github: "processone/ejabberd"}
     ]
   end
 end
